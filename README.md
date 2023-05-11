@@ -1,6 +1,6 @@
 # Proyecto-Estacion-de-Subte-Arduino
 
-![portada](TINKERCAD.png "portada")
+![portada](https://github.com/IbarrolaCamila/Proyecto-Estacion-de-Subte-Arduino/blob/main/img/TINKERCAD.png "portada")
 ## Integrantes:
 * Ibarrola Camila.
 * Franco Beltran.
@@ -9,7 +9,7 @@
 
 ## Proyecto: ESTACIONES DE SUBTE.
 
-![subte](DOJO2.png "subte")
+![subte](https://github.com/IbarrolaCamila/Proyecto-Estacion-de-Subte-Arduino/blob/main/img/DOJO2.png "subte")
 
 ## Descripción
 
