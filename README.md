@@ -1,6 +1,6 @@
 # Proyecto-Estacion-de-Subte-Arduino
 
-![portada](https://i.gyazo.com/dc9a24c2f549c103147ae4d401b4fedb.png "portada")
+![portada](TINKERCAD.png "portada")
 ## Integrantes:
 * Ibarrola Camila.
 * Franco Beltran.
@@ -9,7 +9,7 @@
 
 ## Proyecto: ESTACIONES DE SUBTE.
 
-![subte](https://i.gyazo.com/fd306af2908c0f05be424a1e138b642c.png "subte")
+![subte](DOJO2.png "subte")
 
 ## Descripción
 
